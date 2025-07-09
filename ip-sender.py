@@ -1,7 +1,7 @@
 import requests
 
 # تنظیمات ربات تلگرام
-TELEGRAM_TOKEN = "7901558364:AAGmbWrhXmuQRW_83y5_YUOcmq3Y8-uShRE"  # توکن ربات رو از BotFather بگیر
+TELEGRAM_TOKEN = "7945542630:AAHTTsEVof5Y5HoaqcPaBXff5aqITo4n0uQ"  # توکن ربات رو از BotFather بگیر
 CHAT_ID = "7179154341"  # چت آیدی رو از @userinfobot بگیر
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
 
